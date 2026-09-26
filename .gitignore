@@ -1,0 +1,4 @@
+venv/
+.env
+answers.txt
+__pycache__/
